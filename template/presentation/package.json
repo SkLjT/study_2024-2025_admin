@@ -1,0 +1,14 @@
+{
+    "name": "academic-presentation-markdown-template",
+    "version": "1.0.2",
+    "description": "Presentation template",
+    "main": "index.js",
+    "repository": "git@github.com:yamadharma/academic-presentation-markdown-template.git",
+    "author": "Dmitry S. Kulyabov <yamadharma@gmail.com>",
+    "license": "CC-BY-4.0",
+    "config": {
+	"commitizen": {
+	    "path": "cz-conventional-changelog"
+	}
+    }
+}
